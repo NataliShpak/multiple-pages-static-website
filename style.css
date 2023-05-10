@@ -17,10 +17,10 @@ h1, h2, h3, p {
 
 img  {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 30px auto;
     width: 40%;
     border: #25942a 3px solid;
+    border-radius: 10px;
 }
 footer {
     text-align: center;
